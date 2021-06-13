@@ -1,0 +1,31 @@
+{
+  "name": "react-native-installed-getapps",
+  "version": "1.0.0",
+  "description": "API to retrieve installed  apps information  using native built-ins",
+  "author": "Winplaybox <winplaybox@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "installed",
+    "apps",
+    "packeges",
+    "applications"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:winplaybox/react-native-installed-getapps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/winplaybox/react-native-installed-getapps/issues"
+  },
+  "homepage": "https://github.com/Winplaybox/react-native-installed-getapps#readme"
+}
